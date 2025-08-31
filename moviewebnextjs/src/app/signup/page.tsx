@@ -10,7 +10,7 @@ export default function Signup() {
         <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-indigo-950">
             <div className="w-full max-w-md bg-gray-900/60 backdrop-blur-md rounded-2xl shadow-2xl p-8 mx-4 border border-gray-700 transition transform hover:scale-[1.02] hover:shadow-red-700/40">
                 <div className="text-center mb-8">
-                    <h2 className="text-3xl font-bold text-red-500">CinemaHub 🎬</h2>
+                    <h2 className="text-3xl font-bold text-red-500">MovieHub 🎬</h2>
                     <p className="text-gray-400 mt-2">Create your account</p>
                 </div>
         
